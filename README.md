@@ -9,7 +9,7 @@
 
 <p>The goal of a financial asset manager is two do two things: Increase Value and Minimize Risk</p>
 <p>In this notebook we are going to use real stock data from 2017 and out of a selection of 5 stocks decide which two would have been the best to select for our portfolio:</p>
-<h2><a href="https://github.com/fomalhautn/VQE_Finance-Portfolio-Optimization/blob/main/VQE%20for%20Finance.ipynb"><em>VQE for Finance.ipynb</em></a></h2>
+<h2><a href="https://github.com/fomalhautn/VQE_Finance-Portfolio-Optimization/blob/main/VQE%20for%20Finance_.ipynb"><em>VQE for Finance.ipynb</em></a></h2>
 
 <h3>Anastasiia Andriievska</h3>
 
